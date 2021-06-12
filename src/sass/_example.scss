@@ -1,0 +1,29 @@
+.material-icons.gray08 {
+  color: #4267b2;
+  margin-right: 5px;
+}
+
+.search-form {
+  text-align: center;
+}
+.search-form input {
+  width: 50%;
+  font-size: 30px;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.stats {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+.stats-item {
+  display: flex;
+  align-items: center;
+}
+.photo-card {
+  border: 2px solid rgb(17, 228, 243);
+  margin: 5px;
+}
